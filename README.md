@@ -4,11 +4,11 @@
 
 #### 链接
 
-- [我的GitHub相关仓库]: https://github.com/fukaicheng/quic_research
+* [我的GitHub相关仓库](https://github.com/fukaicheng/quic_research)
 
-- [中国知网]: https://www.cnki.net/
+* [中国知网](https://www.cnki.net/)
 
-- [ResearchGate]: https://www.researchgate.net
+* [ResearchGate](https://www.researchgate.net)
 
 ------
 #### 设计思路
